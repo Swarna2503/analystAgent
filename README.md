@@ -10,7 +10,7 @@ AI Data Analyst built using the **Google Agent Development Kit (ADK)**. This age
 The agent is configured as a **Senior Data Analyst** with the following capabilities:
 1.  **Tooling:** Integrated `BigQueryToolset` with automated credential handling.
 2.  **Reasoning:** A three-step loop: Find appropriate tables -> Generate & execute SQL -> Explain business insights.
-3.  **Model:** Utilizes `gemini-1.5-flash` for high-speed reasoning and accurate SQL generation.
+3.  **Model:** Utilizes `gemini-2.5-flash` for high-speed reasoning and accurate SQL generation.
 
 ---
 
